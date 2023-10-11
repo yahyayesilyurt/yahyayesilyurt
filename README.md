@@ -2,9 +2,6 @@
 <h3 align="center">Computer Engineering student at ITU, Full Stack Web Developer, Keyboard Wizard</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyayesilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="yahyayesilyurt" /> </p>
-
-<p align="left"> <a href="https://twitter.com/biradetcoder" target="blank"><img src="https://img.shields.io/twitter/follow/biradetcoder?logo=twitter&style=for-the-badge" alt="biradetcoder" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
